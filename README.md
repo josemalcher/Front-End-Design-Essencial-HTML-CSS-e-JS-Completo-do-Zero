@@ -2,8 +2,6 @@
 
 https://www.udemy.com/course/front-end-essencial/
 
-
-
 ## <a name="indice">Índice</a>
 
 1. [Seção 1: Introdução](#parte1)     
@@ -19,7 +17,7 @@ https://www.udemy.com/course/front-end-essencial/
 
 ## <a name="parte1">1 - Seção 1: Introdução</a>
 
-
+1. Como tirar melhor proveito deste curso
 
 [Voltar ao Índice](#indice)
 
@@ -28,7 +26,58 @@ https://www.udemy.com/course/front-end-essencial/
 
 ## <a name="parte2">2 - Seção 2: Introdução ao HTML e CSS</a>
 
+- 02 Estágios de um projeto
 
+![Estágios de um projeto](img/estagios-de-um-projeto-01.png)
+
+- 03 O que é HTML
+
+![O que é HTML](img/oque-e-html-01.png)
+
+![O que é HTML](img/oque-e-html-02.png)
+
+
+- 04 Como fazer HTML
+
+![O que é HTML](img/oque-e-html-03.png)
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Codesign Curso</title>
+</head>
+<body>
+    <h1>Texto h1</h1>
+    <h1>Texto h2</h1>
+    <p>Paragrafo <span style="font-size: 20px">José</span></p>
+</body>
+</html>
+
+```
+
+- 05 Instalando e Configurando o Editor de Código
+
+- 06 Tags e Semântica HTML
+- 07 O que é CSS
+- 08 Começando no CSS
+- 09 Folha de estilos externa e cascata
+- 10 Tipografia na web
+- 11 Cores na Web
+- 12 Exercício CSS 01 - Parte 1
+- 13 Exercício CSS 01 - Parte 2
+- 14 Exercício CSS 01 - Parte 3
+- 15 Exercício CSS 01 - Parte 4
+- 16 Exercício CSS 01 - Parte 5
+- 17 Design patterns e o Atomic Design
+- 18 Exercício CSS 02 - Parte 1
+- 19 Exercício CSS 02 - Parte 2
+- 20 Exercício CSS 02 - Parte 3
+- 21 Exercício CSS 02 - Parte 4
+- 22 Exercício CSS 02 - Parte 5
+- 23 Exercício CSS 02 - Parte 6
+- 24 Exercício CSS 02 - Parte 7
+- 25 Exercício CSS 02 - Parte 8
 
 [Voltar ao Índice](#indice)
 
