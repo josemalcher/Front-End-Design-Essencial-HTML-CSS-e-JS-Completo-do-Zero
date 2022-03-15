@@ -59,7 +59,11 @@ https://www.udemy.com/course/front-end-essencial/
 - 05 Instalando e Configurando o Editor de Código
 
 - 06 Tags e Semântica HTML
+
+![](img/semantica.png)
+
 - 07 O que é CSS
+
 - 08 Começando no CSS
 - 09 Folha de estilos externa e cascata
 - 10 Tipografia na web
