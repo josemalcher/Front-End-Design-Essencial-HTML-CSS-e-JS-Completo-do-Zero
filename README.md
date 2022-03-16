@@ -58,30 +58,29 @@ https://www.udemy.com/course/front-end-essencial/
 
 - 05 Instalando e Configurando o Editor de Código
 
-- 06 Tags e Semântica HTML
+- 07 Tags e Semântica HTML
 
 ![](img/semantica.png)
 
-- 07 O que é CSS
-
-- 08 Começando no CSS
-- 09 Folha de estilos externa e cascata
-- 10 Tipografia na web
-- 11 Cores na Web
-- 12 Exercício CSS 01 - Parte 1
-- 13 Exercício CSS 01 - Parte 2
-- 14 Exercício CSS 01 - Parte 3
-- 15 Exercício CSS 01 - Parte 4
-- 16 Exercício CSS 01 - Parte 5
-- 17 Design patterns e o Atomic Design
-- 18 Exercício CSS 02 - Parte 1
-- 19 Exercício CSS 02 - Parte 2
-- 20 Exercício CSS 02 - Parte 3
-- 21 Exercício CSS 02 - Parte 4
-- 22 Exercício CSS 02 - Parte 5
-- 23 Exercício CSS 02 - Parte 6
-- 24 Exercício CSS 02 - Parte 7
-- 25 Exercício CSS 02 - Parte 8
+- 08 O que é CSS
+- 09 Começando no CSS
+- 10 Folha de estilos externa e cascata
+- 11 Tipografia na web
+- 12 Cores na Web
+- 13 Exercício CSS 01 - Parte 1
+- 14 Exercício CSS 01 - Parte 2
+- 15 Exercício CSS 01 - Parte 3
+- 16 Exercício CSS 01 - Parte 4
+- 17 Exercício CSS 01 - Parte 5
+- 18 Design patterns e o Atomic Design
+- 19 Exercício CSS 02 - Parte 1
+- 20 Exercício CSS 02 - Parte 2
+- 21 Exercício CSS 02 - Parte 3
+- 22 Exercício CSS 02 - Parte 4
+- 23 Exercício CSS 02 - Parte 5
+- 24 Exercício CSS 02 - Parte 6
+- 25 Exercício CSS 02 - Parte 7
+- 26 Exercício CSS 02 - Parte 8
 
 [Voltar ao Índice](#indice)
 
