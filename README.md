@@ -72,6 +72,13 @@ https://www.udemy.com/course/front-end-essencial/
 
 
 - 12 Cores na Web
+
+![Trabalhando com cores](img/trab-com-cores.png)
+
+![Trabalhando com cores](img/cores-tipos.png)
+
+![Trabalhando com cores](img/trab-com-cores-2.png)
+
 - 13 Exercício CSS 01 - Parte 1
 - 14 Exercício CSS 01 - Parte 2
 - 15 Exercício CSS 01 - Parte 3
