@@ -63,6 +63,14 @@ https://www.udemy.com/course/front-end-essencial/
 - 09 Começando no CSS
 - 10 Folha de estilos externa e cascata
 - 11 Tipografia na web
+
+![web-safe-fonts](img/web-safe-fonts.png)
+
+![web-fonts](img/web-fonts.png)
+
+![web-fonts-links](img/web-fotns-links.png)
+
+
 - 12 Cores na Web
 - 13 Exercício CSS 01 - Parte 1
 - 14 Exercício CSS 01 - Parte 2
