@@ -1,0 +1,15 @@
+.txt-azul {
+    font-family: Calibri;
+    font-size: 18px;
+    color: blue;
+}
+.box {
+    width: 400px;
+    height: 300px;
+    display: table;
+    margin: 30px auto;
+    text-align: center;
+    background-color: darkkhaki;
+    border-radius: 8px;
+    box-shadow: 4px 4px 12px rgba(0,0,0,0.15);
+}
