@@ -80,6 +80,9 @@ https://www.udemy.com/course/front-end-essencial/
 ![Trabalhando com cores](img/trab-com-cores-2.png)
 
 - 13 Exercício CSS 01 - Parte 1
+
+[](Secao02-IntroducaoaoHTMLeCSS/13-Exercicio-CSS-01)
+
 - 14 Exercício CSS 01 - Parte 2
 - 15 Exercício CSS 01 - Parte 3
 - 16 Exercício CSS 01 - Parte 4
