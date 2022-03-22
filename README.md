@@ -88,6 +88,9 @@ https://www.udemy.com/course/front-end-essencial/
 - 16 Exercício CSS 01 - Parte 4
 - 17 Exercício CSS 01 - Parte 5
 - 18 Design patterns e o Atomic Design
+
+![](img/atomic-design-1.png)
+
 - 19 Exercício CSS 02 - Parte 1
 - 20 Exercício CSS 02 - Parte 2
 - 21 Exercício CSS 02 - Parte 3
