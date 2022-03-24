@@ -21,8 +21,55 @@ main {
     background-color: #ffffff;
     border-radius: 8px;
     box-shadow: 8px 8px 12px rgba(0, 0, 0, 0.05);
+    padding: 15px;
+    box-sizing: border-box;
 }
-.card .card-image{
-    border: 8px solid yellow;
 
+.card .card-image {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    display: block;
+}
+
+.card .card-body {
+    width: 100%;
+    display: table;
+    margin-top: 15px;
+}
+
+.card .card-body h1 {
+    font-family: Arial Black, Helvetica, sans-serif;
+    font-size: 21px;
+    line-height: 24px;
+    color: #9013fe;
+    margin: 0;
+}
+
+.card .card-footer {
+    width: 100%;
+    display: table;
+}
+
+.card .card-footer .btn {
+    width: 100%;
+}
+
+.btn {
+    width: auto;
+    height: 40px;
+    display: inline-block;
+    background-color: #39e493;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 40px;
+    text-decoration: none;
+    margin-top: 12px;
+    padding: 0 30px;
+    border-radius: 4px;
+    box-sizing: border-box;
 }
