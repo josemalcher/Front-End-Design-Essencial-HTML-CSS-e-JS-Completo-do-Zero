@@ -106,6 +106,35 @@ https://www.udemy.com/course/front-end-essencial/
 
 ## <a name="parte3">3 - Seção 3: Layouts, Grids e Flexbox</a>
 
+- 27 Tipos de layout web
+
+![27 Tipos de layout web](/img/tipos-layout.png)
+
+- 28 O que é design responsivo
+
+![](/img/media-query.png)
+
+![](/img/media-query-2.png)
+
+- 29 Fazendo design responsivo com Media Queries
+
+- [Secao03-Layouts-Grids-e-Flexbox/29-Media-Queries](Secao03-Layouts-Grids-e-Flexbox/29-Media-Queries)
+
+- 30 Sistemas de grid
+- 31 Customizando e Baixando o Bootstrap Grid System
+- 32 Usando o Bootstrap Grid System
+- 33 Flexbox - Intro
+- 34 Flexbox - Display Flex e Flex-Direction
+- 35 Flexbox - Flex-Wrap
+- 36 Flexbox - Justify-Content
+- 37 Flexbox - Align-Items
+- 38 Flexbox - Align-Content
+- 39 Flexbox - Order
+- 40 Flexbox - Flex-Grow
+- 41 Flexbox - Flex-Shrink
+- 42 Flexbox - Flex 'Shorthand'
+- 43 Flexbox - Align-Self
+
 [Voltar ao Índice](#indice)
 
 ---
