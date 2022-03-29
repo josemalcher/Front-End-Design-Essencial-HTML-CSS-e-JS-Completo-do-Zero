@@ -108,13 +108,13 @@ https://www.udemy.com/course/front-end-essencial/
 
 - 27 Tipos de layout web
 
-![27 Tipos de layout web](/img/tipos-layout.png)
+![27 Tipos de layout web](img/tipos-layout.png)
 
 - 28 O que é design responsivo
 
-![](/img/media-query.png)
+![](img/media-query.png)
 
-![](/img/media-query-2.png)
+![](img/media-query-2.png)
 
 - 29 Fazendo design responsivo com Media Queries
 
@@ -122,6 +122,13 @@ https://www.udemy.com/course/front-end-essencial/
 
 - 30 Sistemas de grid
 - 31 Customizando e Baixando o Bootstrap Grid System
+
+![](img/grids.png)
+
+![](img/grids-2.png)
+
+![](img/grids-3.png)
+
 - 32 Usando o Bootstrap Grid System
 - 33 Flexbox - Intro
 - 34 Flexbox - Display Flex e Flex-Direction
