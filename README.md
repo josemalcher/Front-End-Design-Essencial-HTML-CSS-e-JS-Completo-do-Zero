@@ -148,6 +148,26 @@ https://www.udemy.com/course/front-end-essencial/
 
 ## <a name="parte4">4 - Seção 4: Animações com CSS e SVG</a>
 
+
+- 44 Animações com CSS - Intro
+
+![](img/animacao-elementos-01.png)
+
+- 45 Animações com CSS - Parte 1
+- 46 Animações com CSS - Parte 2
+- 47 Animações com CSS - Transform
+- 48 Animações com CSS - Exemplo de aplicação - Parte 1
+- 49 Animações com CSS - Exemplo de aplicação - Parte 2
+- 50 Site e Arquivos para a próxima aula
+- 51 A biblioteca Animate.css
+- 52 Introdução ao SVG
+- 53 Criando SVGs - Parte 1
+- 54 Criando SVGs - Parte 2
+- 55 Inserindo SVGs no HTML - Parte 1
+- 56 Inserindo SVGs no HTML - Parte 2
+- 57 Animando Imagens SVG - Parte 1
+- 58 Animando Imagens SVG - Parte 2
+
 [Voltar ao Índice](#indice)
 
 ---
