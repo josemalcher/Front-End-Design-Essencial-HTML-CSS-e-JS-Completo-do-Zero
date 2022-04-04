@@ -159,6 +159,10 @@ https://www.udemy.com/course/front-end-essencial/
 - 48 Animações com CSS - Exemplo de aplicação - Parte 1
 - 49 Animações com CSS - Exemplo de aplicação - Parte 2
 - 50 Site e Arquivos para a próxima aula
+
+- https://animate.style/
+- https://github.com/animate-css/animate.css/releases/tag/3.7.0
+
 - 51 A biblioteca Animate.css
 - 52 Introdução ao SVG
 - 53 Criando SVGs - Parte 1
