@@ -164,11 +164,25 @@ https://www.udemy.com/course/front-end-essencial/
 - https://github.com/animate-css/animate.css/releases/tag/3.7.0
 
 - 51 A biblioteca Animate.css
+
+- [Secao04-AnimacoescomCSSeSVG/51-AbibliotecaAnimate](Secao04-AnimacoescomCSSeSVG/51-AbibliotecaAnimate)
+
 - 52 Introdução ao SVG
+
+![](img/svg.png)
+
+![](img/svg2.png)
+
 - 53 Criando SVGs - Parte 1
 - 54 Criando SVGs - Parte 2
+
+
+
 - 55 Inserindo SVGs no HTML - Parte 1
 - 56 Inserindo SVGs no HTML - Parte 2
+
+![](img/svgHtml.png)
+
 - 57 Animando Imagens SVG - Parte 1
 - 58 Animando Imagens SVG - Parte 2
 
