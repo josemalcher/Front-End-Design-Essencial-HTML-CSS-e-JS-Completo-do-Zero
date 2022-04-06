@@ -192,6 +192,30 @@ https://www.udemy.com/course/front-end-essencial/
 
 ## <a name="parte5">5 - Seção 5: Javascript</a>
 
+- 59 O que é Javascript
+- 60 Client Side e Processo de Renderização
+- 61 Conhecendo o Console
+- 62 Sintaxe e API Javascript
+- 63 O Objeto Window
+- 64 Dados primitivos Javascript
+- 65 Variáveis Javascript
+- 66 Operadores e precedência
+- 67 Seletores - Parte 1
+- 68 Seletores - Parte 2
+- 69 Condicionais - IF Else - Parte 1
+- 70 Condicionais - IF Else - Parte 2
+- 71 Condicionais - Switch Case
+- 72 Eventos
+- 73 Funções
+- 74 Array - Parte 1
+- 75 Array - Parte 2
+- 76 Objetos - Parte 1
+- 77 Objetos - Parte 2
+- 78 Objetos - Parte 3
+- 79 Loops
+- 80 Loop For - Destrinchando a Sintaxe
+
+
 [Voltar ao Índice](#indice)
 
 ---
