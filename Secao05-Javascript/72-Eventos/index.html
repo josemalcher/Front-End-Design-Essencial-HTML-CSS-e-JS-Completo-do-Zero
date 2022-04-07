@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Eventos</title>
+    <style>
+        .box {
+            width: 450px;
+            height: 200px;
+            display: block;
+            margin: 60px auto;
+            background-color: indigo;
+            color: mediumspringgreen;
+            text-align: center;
+            line-height: 200px;
+            font-size: 41px;
+            font-family: monospace;
+            font-weight: normal;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="box" id="box">
+        Codesigners!
+    </div>
+
+    <div class="box">
+        Codesigners!
+    </div>
+
+    <div class="box">
+        Codesigners!
+    </div>
+
+    <div class="box">
+        Codesigners!
+    </div>
+
+    <div class="box">
+        Codesigners!
+    </div>
+
+    <div class="box">
+        Codesigners!
+    </div>
+
+    <script>
+        var myBox = document.getElementById('box');
+        var allBoxes = document.querySelectorAll('.box');
+
+        myBox.addEventListener('mouseover', function () {
+            for (var i = 0; allBoxes.length > i; i++) {
+                allBoxes[i].style.backgroundColor = 'black';
+            }
+        });
+
+        window.addEventListener('scroll', function () {
+            if (window.pageYOffset > 100 && window.pageYOffset < 110) {
+                for (var i = 0; allBoxes.length > i; i++) {
+                    allBoxes[i].style.backgroundColor = 'black';
+                }
+            }
+        })
+
+
+    </script>
+
+</body>
+
+</html>

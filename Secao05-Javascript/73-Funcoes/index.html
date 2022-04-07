@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Funções</title>
+    <style>
+        .box {
+            width: 450px;
+            height: 200px;
+            display: block;
+            margin: 60px auto;
+            background-color: indigo;
+            color: mediumspringgreen;
+            text-align: center;
+            line-height: 200px;
+            font-size: 41px;
+            font-family: monospace;
+            font-weight: normal;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="box" id="box">
+
+    </div>
+
+    <script>
+        var myBox = document.getElementById('box');
+
+        function myInfo(x, y, z) {
+
+            var myCalc = x + y + z;
+
+            myBox.append(myCalc);
+        }
+
+        myInfo('Brunão', ' Codesigners', ' Front End');
+
+    </script>
+
+</body>
+
+</html>
