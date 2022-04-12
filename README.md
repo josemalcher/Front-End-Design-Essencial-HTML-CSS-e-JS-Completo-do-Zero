@@ -222,6 +222,14 @@ https://www.udemy.com/course/front-end-essencial/
 
 ## <a name="parte6">6 - Seção 6: JQuery (opcional)</a>
 
+- 81 JQuery - Ressalva
+- 82 JQuery - Versões
+- 83 JQuery - Seletores e CSS
+- 84 JQuery - Exercício Busca Gato - Parte 1
+- 85 JQuery - Exercício Busca Gato - Parte 2
+- 86 JQuery - Add, Remove e Toggle Class
+
+
 [Voltar ao Índice](#indice)
 
 ---
